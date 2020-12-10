@@ -1,0 +1,29 @@
+html, body {
+  background: #191919;
+  font-family: 'Helvetica', Arial, sans-serif;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.post_title {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #c7b299;
+}
+
+.gallery {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+.photo {
+    display: flex;
+    justify-content: center;
+    margin: 0 20px 40px 20px;
+    padding: 0 0 0 0;
+}
